@@ -1,0 +1,26 @@
+body {
+    font-family: 'EB Garamond', serif, sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+input, select, textarea, button {
+  font-family : inherit;
+  font-size   : 100%;
+  box-sizing: border-box;
+  width: 15%;
+}
+
+[type="radio"] {
+    width: 1%;
+}
+
+legend {
+  overflow: hidden;
+}
+
+input:focus, textarea:focus{ 
+  background-color: lightblue;
+}
