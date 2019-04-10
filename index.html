@@ -3,8 +3,8 @@
 
 <head>
     <title>About Me</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
     <link href="https://fonts.googleapis.com/css?family=EB+Garamond:400,400i,500,500i,600,600i,700,700i,800,800i" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
@@ -155,11 +155,12 @@
                     <legend>Feel free to contact me</legend>
                     <label for='email'>Email</label>
                     <br>
-                    <input id='email' type='email' name='email' required aria-required='true' aria-invalid='true' aria-describedby='email_error'>
+                    <input id='email' type='email' name='email' required aria-required='true' aria-invalid='true'>
+
                     <br><br>
                     <label for='message'>Message</label>
                     <br>
-                    <textarea name="message" placeholder="Test Message"></textarea>
+                    <textarea id="message" name="message"></textarea>
                     <br><br>
                     <fieldset>
                         <legend>I would like a reply</legend>
