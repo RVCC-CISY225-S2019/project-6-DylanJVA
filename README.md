@@ -23,8 +23,8 @@ You are going to have to download and add the files from your Project 5 into thi
 10. Add those screen grab pictures to the folder called readme-src in this repo.
 11. Edit this repo and add the images to the bottom of this page so that they display like the GH Pages image you see above.
 
-![GH Pages](https://github.com/RVCC-CISY225-S2019/project-6-DylanJVA/tree/master/readme-src/image1.png)
-![GH Pages](https://github.com/RVCC-CISY225-S2019/project-6-DylanJVA/tree/master/readme-src/image2.png)
+![GH Pages](https://github.com/RVCC-CISY225-S2019/project-6-DylanJVA/blob/master/readme-src/image1.png?raw=true)
+![GH Pages](https://github.com/RVCC-CISY225-S2019/project-6-DylanJVA/blob/master/readme-src/image1.png?raw=true)
 
 **You are expected to do the Week 9 reading as preparation for this assignment. Also you must use our CSS formatting rules from the CISY 225 Style Guide.**
 
